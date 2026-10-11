@@ -1,0 +1,13 @@
+streamlit==1.32.0
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+transformers
+accelerate
+bitsandbytes
+torch
